@@ -1,0 +1,1 @@
+source Downloads/emsdk_portable/emsdk_set_env.sh
